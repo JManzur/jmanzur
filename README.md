@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**JManzur/jmanzur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my playground! This is my personal repo, here I share projects about: AWS, Docker and IoT, mainly using Terraform and Python.
 
-Here are some ideas to get you started:
+### What I'm doing right now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a full-time Cloud Engineer for an AWS partner.
+
+### My knowledge and interest:  
+- Cloud: I'm a AWS Certified Solutions Architect. 
+- Infrastructure As Code (IaC).
+- Configuration Management. (I :heart: Ansible).
+- Containers and orchestration: Docker, LXC, AWS ECS, Kubernetes
+- Virtualization: VMWare, Hyper-V, KVM, Proxmox.
+- Scripting: Python, Bash, Powershell.
+- Basic Frontend development in: HTML, CSS, JavaScripts.
+
+And of course I have been working in IT since 2005, so I have experience in many other areas.
