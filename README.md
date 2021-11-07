@@ -21,4 +21,4 @@ Currently working as a full-time Cloud Engineer for an AWS partner.
 
 Check my website, there you can find many ways to contact me.
 
-<font size="+2">[jmanzur.com.ar](https://jmanzur.com.ar)</font>
+[jmanzur.com.ar](https://jmanzur.com.ar)
