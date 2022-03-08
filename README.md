@@ -17,8 +17,8 @@ Currently working as a full-time Cloud Engineer for an AWS partner.
 - Scripting: Python, Bash, Powershell.
 - Basic Frontend development. (HTML, CSS, JavaScripts).
 
-## How to reach me:
+## Contact information:
 
 Check my website, there you can find many ways to contact me.
 
-[jmanzur.com.ar](https://jmanzur.com.ar)
+[jmanzur.com.ar](https://jmanzur.com)
