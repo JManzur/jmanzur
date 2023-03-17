@@ -4,7 +4,7 @@ Welcome to my playground! This is my personal repo, here I share projects about 
 
 ## What I'm doing right now:
 
-Currently working as a full-time Cloud Engineer for an AWS partner.
+Currently working as a full-time Cloud Architect for an AWS partner.
 
 ## My knowledge and interest:  
 
