@@ -14,7 +14,7 @@ Currently working as a full-time Cloud Architect for an AWS partner.
 - Configuration Management. (I :heart: Ansible).
 - Containers and orchestration: Docker, LXC, AWS ECS, Kubernetes.
 - Virtualization: VMWare, Hyper-V, KVM, Proxmox.
-- Scripting: Python, Bash, Powershell.
+- Scripting: Python, Go, Bash, Powershell.
 - Basic Frontend development. (HTML, CSS, JavaScripts).
 
 ## Contact information:
